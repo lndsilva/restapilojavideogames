@@ -5,6 +5,12 @@
       "usuario": "admin",
       "senha":"admin",
       "email":"admin@admin.com"
+    },
+    {
+      "id":2,
+      "usuario": "etecia",
+      "senha":"etecia",
+      "email":"etecia@admin.com"
     }
   ],
   "jogos": [
