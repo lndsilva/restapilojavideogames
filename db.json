@@ -1,4 +1,19 @@
 {
+  "fornecedores":[
+    {
+      "id":1,
+      "descricao": "Marmitas S/A",
+      "cnpj":"42.035.0001-35",
+      "ie":"001.005.253-3"
+    },
+    {
+      "id":2,
+      "descricao": "Camisas LTDA",
+      "cnpj":"25.352.0001-85",
+      "ie":"002.003.45-8"
+    }
+
+  ],
   "usuarios":[
     {
       "id":1,
